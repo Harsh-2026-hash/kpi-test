@@ -8,3 +8,9 @@ currently doing the work of week 4
 
 this repo created by the harsh Rohit just for my project perpose of KPI management
 \\make the new commit on the 10-3-2026
+
+
+ ## Login Feature
+  - Added login page
+  - Added logout button
+  - Fixed session timeout
